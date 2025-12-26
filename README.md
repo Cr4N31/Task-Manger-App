@@ -113,15 +113,6 @@ Each task has the following shape:
 
 ---
 
-## ⚡ Why This Project Stands Out
-
-- Demonstrates understanding of **React component architecture**.
-- Shows practical use of **state lifting** and **controlled forms**.
-- Includes **real-world features** like filtering and persistent storage.
-- Provides a **clean, readable, and recruiter-friendly codebase** ready for scaling.
-
----
-
 ## 📌 Future Improvements
 
 - Add **drag-and-drop** for task reordering.
