@@ -2,7 +2,7 @@
 function TaskList({tasks, onDelete, onEdit}) {
     return(
         
-        <div className="overflow-scroll max-w-md text-center">
+        <div className="overflow-auto max-w-[150px] text-center">
             <div className="flex-1">
                 <ul className="flex flex-col gap-2">
                     {tasks.map(task => (
